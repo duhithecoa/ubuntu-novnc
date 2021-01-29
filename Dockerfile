@@ -13,7 +13,7 @@ RUN set -ex; \
         gedit \
         xterm \
         sudo \
-	    firefox \
+	firefox \
         bash \
         net-tools \
         novnc \
@@ -26,7 +26,7 @@ RUN set -ex; \
         net-tools \
         curl \
         git \
-	    wget \
+	wget \
         libtasn1-3-bin \
         libglu1-mesa \
         libqt5webkit5 \
